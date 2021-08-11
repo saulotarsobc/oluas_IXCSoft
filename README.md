@@ -1,4 +1,4 @@
-# IXC Soft + Zabbi Agent
+# IXC Soft + Zabbix Agent
 
 > Monitoramento de servidore IXC Soft usando zabbix agent
 
