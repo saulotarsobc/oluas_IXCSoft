@@ -6,7 +6,7 @@
 
 > Monitoramento de Front End e Memoria
 
-![image](https://user-images.githubusercontent.com/23584038/129421336-8527975d-2ffc-4101-bed7-4e65373e868d.png)
+![image](https://user-images.githubusercontent.com/23584038/129742844-1af5f899-d0fe-4847-b87d-b24f2c912196.png)
 
 > Triggers...
 
