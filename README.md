@@ -4,7 +4,7 @@
 
 ## 🚧 EM CONSTRUÇÃO 🚧
 
-> Monitoramento de Front End e Memoria
+> Monitoramento de Front End, ping, memoria, cpu e backups.
 
 ![image](https://user-images.githubusercontent.com/23584038/129742844-1af5f899-d0fe-4847-b87d-b24f2c912196.png)
 
