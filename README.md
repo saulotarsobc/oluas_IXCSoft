@@ -6,7 +6,7 @@
 
 > Monitoramento de Front End, ping, memoria, cpu e backups.
 
-![image](https://user-images.githubusercontent.com/23584038/129742844-1af5f899-d0fe-4847-b87d-b24f2c912196.png)
+![image](https://user-images.githubusercontent.com/23584038/129745538-b62f9447-1f03-4caa-9036-daa2988e4de6.png)
 
 > Triggers...
 
